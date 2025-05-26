@@ -22,7 +22,7 @@ A lightweight and interactive command-line file manager written in Rust. This CL
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/rusty-file-manager.git
+git clone https://github.com/lavale1012/rusty-file-manager.git
 cd rusty-file-manager
 ```
 
